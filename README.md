@@ -19,7 +19,7 @@
 ## 💡 Implementation of the Logic
 
 👉 Basically, I used the famous dlib library which can estimate the location of 68 coordinates (x, y) that map the facial points on a person’s face in real-time.<br>
-You can download the library from <a href="https://github.com/">here.</a>
+You can download the library from <a href="https://pypi.org/project/dlib/">here.</a>
 
 **📸 Here is a Image to show 68 points on our face**
 
@@ -55,7 +55,7 @@ Just follow 4 simple steps:
 
 **If you face any problem not running in local environment or anything:** email me at *nisargtrivedi054@gmail.com*
 <br>
-Or you can reach out to me at LinkedIn also!
+Or you can reach out to me at LinkedIn also!<br>
 <a href="https://www.linkedin.com/in/nisargtrivedi1112"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Reach out to Nisarg Trivedi"></a>
 
 ## References
