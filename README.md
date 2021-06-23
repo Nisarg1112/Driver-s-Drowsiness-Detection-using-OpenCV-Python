@@ -14,20 +14,20 @@
 ## Demo Output Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hsEUkFkJJy0
-" target="_blank"><img src="youtube_thumbnail.png" alt="Driver's Drowsiness Detection" title="Watch On Youtube" height=400px></a>
+" target="_blank"><img src="assets/youtube_thumbnail.png" alt="Driver's Drowsiness Detection" title="Watch On Youtube" height=400px></a>
 
 ## 💡 Implementation of the Logic
 
 👉 Basically, I used the famous dlib library which can estimate the location of 68 coordinates (x, y) that map the facial points on a person’s face in real-time.<br>
-You can download the library from <a href="https://pypi.org/project/dlib/">here.</a>
+You can download the library from <a href="https://github.com/Nisarg1112/Driver-s-Drowsiness-Detection-using-OpenCV-Python/tree/main/shape_predictor_68_face_landmarks.dat">here.</a>
 
 **📸 Here is a Image to show 68 points on our face**
 
-<img src="68_landmark.jpeg" height=300px><br>
+<img src="assets/68_landmark.jpeg" height=300px><br>
 
 **🎥 Here is a GIF to show 68 points on Real face**
 
-<img src="68_points_gif.gif" height=300px><br>
+<img src="assets/68_points_gif.gif" height=300px><br>
 
 
 👉 Then, I am calculating Eye Aspect Ratio (EAR) of Left Eye and Right Eye using Euclidean Distance between 3 pairs of different coordinates of both the eyes as seen in 68 Points landmark's image!
