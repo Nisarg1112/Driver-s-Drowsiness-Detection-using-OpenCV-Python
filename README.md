@@ -51,14 +51,14 @@ Just follow 4 simple steps:
    
 **Note**: Incase, if you want to just detect the 68 points on Human face then run `face_landmark.py` file and You are good to go!😎
 
-## Helpdesk
+## 🙋‍♂️ Helpdesk
 
 **If you face any problem not running in local environment or anything:** email me at *nisargtrivedi054@gmail.com*
 <br>
 Or you can reach out to me at LinkedIn also!<br>
 <a href="https://www.linkedin.com/in/nisargtrivedi1112"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Reach out to Nisarg Trivedi"></a>
 
-## References
+## ℹ References
 
 The ideas presented in this repo came primarily from the Dlib library. The implementation here also took significant inspiration. The pretrained model used in this project came from the official Dlib website.
 
