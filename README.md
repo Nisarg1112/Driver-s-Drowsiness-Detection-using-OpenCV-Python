@@ -56,6 +56,7 @@ Just follow 4 simple steps:
 **If you face any problem not running in local environment or anything:** email me at *nisargtrivedi054@gmail.com*
 <br>
 Or you can reach out to me at LinkedIn also!<br>
+
 <a href="https://www.linkedin.com/in/nisargtrivedi1112"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Reach out to Nisarg Trivedi"></a>
 
 ## ℹ References
