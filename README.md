@@ -14,7 +14,7 @@
 ## Demo Output Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hsEUkFkJJy0
-" target="_blank"><img src="assets/youtube_thumbnail.png" alt="Driver's Drowsiness Detection" title="Watch On Youtube" height=400px></a>
+" target="_blank"><img src="assets/youtube_thumbnail.png" alt="Driver's Drowsiness Detection" title="Click here to Watch output on Youtube" height=400px></a>
 
 ## 💡 Implementation of the Logic
 
